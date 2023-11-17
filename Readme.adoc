@@ -4,6 +4,13 @@ François Lamboley <francois.lamboley@happn.fr>
 :ruby_dotenv: https://github.com/bkeepers/dotenv
 :php_dotenv: https://github.com/vlucas/phpdotenv
 
+---
+
+NOTE: This repo is no longer maintained by happn. +
+A maintained version is available from its creator at https://github.com/Frizlab/SwiftDotEnv[Frizlab/SwiftDotEnv].
+
+---
+
 Swift library that loads environment variables from `.env` into the environment inspired by the {ruby_dotenv}[Ruby dotenv] and {php_dotenv}[PHP dotenv] projects.
 
 == Why?
